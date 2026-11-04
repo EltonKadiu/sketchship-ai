@@ -1,4 +1,4 @@
-# 🚀 SketchShip AI
+#  SketchShip AI
 
 Upload a hand-drawn sketch or wireframe and get a working Streamlit app with a live preview.
 
